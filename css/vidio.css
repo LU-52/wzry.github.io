@@ -1,0 +1,44 @@
+.audio{
+    width: 100%;
+    height: 802px;
+    background-color: black;
+}
+.audio li{
+    padding-top:3000px
+}
+.audio a{
+    font-size: 50px;
+}
+
+.audio1{
+    width: 1266px;
+    height: 800px;
+    margin: 0 auto;
+    position: relative;
+}
+.audio1 video{
+    width: 1000px;
+    height: 730px;
+    position: relative;
+    left: 130px;
+    bottom: 84px;
+}
+.bb{
+    width: 1266px;
+    height: 100px;
+}
+.bb p{
+    font-size: 50px;
+    line-height: 100px;
+    animation: change 6s linear 0s infinite;
+}
+@keyframes change {
+    0% {color:#8A2BE2}
+    50% {color:#DC143C;}
+    100% {color:dodgerblue}
+    }
+.p{
+    width: 500px;
+    height: 1000px;
+    background-color: aqua;
+}
